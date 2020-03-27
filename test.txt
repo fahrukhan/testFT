@@ -4,3 +4,4 @@ This new line for first training git
 - Belajar JavaScript
 - Belajar PHP
 - Belajar Framework PHP
+- Belajar Git 
