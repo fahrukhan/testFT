@@ -10,3 +10,4 @@ Command git yang di pelajari hari ini
 - $ git --version => check versi dari git yang terinstall
 - $ git config --list => check konfigurasi
 - $ git init => inisilaisasi repository lokal
+- $ git status => check status repository
