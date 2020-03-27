@@ -1,3 +1,4 @@
 This new line for first training git
 
-Revision 2
+- Belajar HTML dan CSS
+- Belajar JavaScript
