@@ -5,3 +5,6 @@ This new line for first training git
 - Belajar PHP
 - Belajar Framework PHP
 - Belajar Git 
+
+Command git yang di pelajari hari ini
+- $ git --version => check versi dari git yang terinstall
